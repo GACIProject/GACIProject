@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/humber-learning-resource-commons.jpg" alt="Humber Learning Resource Commons" width="100%">
+</p>
+
 # GACI Project
 
 > Building better academic curriculum workflows for Humber Polytechnic.
